@@ -1,0 +1,12 @@
+name: "Devpod"
+description: "Open-source tool for creating reproducible development environments in any cloud or local infrastructure using dev containers. Provides CLI and UI for managing remote development backends."
+source_url: "https://devpod.sh/"
+category: "Dev Environments for Agents"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "dev-containers"
+icon_url: "https://icons.duckduckgo.com/ip3/devpod.sh.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://devpod.sh/>\n- Repository: <https://github.com/loft-sh/devpod>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 01:05"

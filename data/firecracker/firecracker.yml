@@ -1,0 +1,12 @@
+name: "Firecracker"
+description: "Open-source microvirtual machine monitor for creating secure, multi-tenant container and function services. Used by AWS Lambda and Fargate for lightweight virtualization."
+source_url: "https://firecracker-microvm.github.io/"
+category: "MicroVM Runtimes"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "microvm"
+  - "virtualization"
+icon_url: "https://icons.duckduckgo.com/ip3/firecracker-microvm.github.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://firecracker-microvm.github.io/>\n- Repository: <https://github.com/firecracker-microvm/firecracker>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 01:05"

@@ -1,0 +1,12 @@
+name: "Northflank"
+description: "Developer platform offering ephemeral environments, preview deployments, and managed infrastructure for running code. Supports automated environment creation for AI agent workflows."
+source_url: "https://northflank.com/"
+category: "Dev Environments for Agents"
+tags:
+  - "freemium"
+  - "api"
+  - "cloud"
+  - "ephemeral-environments"
+icon_url: "https://icons.duckduckgo.com/ip3/northflank.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://northflank.com/>\n"
+updated_at: "2026-11-21 01:05"

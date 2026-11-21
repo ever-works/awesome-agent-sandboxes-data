@@ -1,0 +1,12 @@
+name: "E2B"
+description: "Secure cloud sandboxes for running AI-generated code, primarily Python, with SDKs for integrating code execution into AI agents. Offers persistent file systems and long-running sessions."
+source_url: "https://e2b.dev/"
+category: "Managed Sandbox APIs"
+tags:
+  - "freemium"
+  - "api"
+  - "ai-powered"
+  - "python"
+icon_url: "https://icons.duckduckgo.com/ip3/e2b.dev.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://e2b.dev/>\n"
+updated_at: "2026-11-21 01:05"

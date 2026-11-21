@@ -1,0 +1,12 @@
+name: "Vercel Sandbox"
+description: "Vercel provides preview and deployment sandbox environments for frontend and full-stack applications, enabling isolated execution of serverless functions. Used for testing AI-generated code in preview deployments."
+source_url: "https://vercel.com/"
+category: "Managed Sandbox APIs"
+tags:
+  - "freemium"
+  - "api"
+  - "cloud"
+  - "serverless"
+icon_url: "https://icons.duckduckgo.com/ip3/vercel.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://vercel.com/>\n"
+updated_at: "2026-11-21 01:05"

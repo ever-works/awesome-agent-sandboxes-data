@@ -1,0 +1,12 @@
+name: "Gitpod"
+description: "Automated developer environments that spin up cloud IDEs from repositories, supporting prebuilds and team collaboration. Offers self-hosted and managed deployment options."
+source_url: "https://gitpod.io/"
+category: "Dev Environments for Agents"
+tags:
+  - "freemium"
+  - "self-hosted"
+  - "api"
+  - "cloud-ide"
+icon_url: "https://icons.duckduckgo.com/ip3/gitpod.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://gitpod.io/>\n"
+updated_at: "2026-11-21 01:05"

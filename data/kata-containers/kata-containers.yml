@@ -1,0 +1,12 @@
+name: "Kata Containers"
+description: "Open-source lightweight virtual machines that provide stronger isolation for container workloads using hardware virtualization. Compatible with Kubernetes and container runtimes for secure multi-tenant execution."
+source_url: "https://katacontainers.io/"
+category: "MicroVM Runtimes"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "microvm"
+  - "kubernetes"
+icon_url: "https://icons.duckduckgo.com/ip3/katacontainers.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://katacontainers.io/>\n- Repository: <https://github.com/kata-containers/kata-containers>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 01:05"

@@ -1,0 +1,13 @@
+name: "Replit"
+description: "Browser-based integrated development environment and code execution platform with built-in AI agent features. Supports collaborative coding and instant deployment of applications."
+source_url: "https://replit.com/"
+category: "Code Interpreters"
+tags:
+  - "freemium"
+  - "api"
+  - "ai-powered"
+  - "browser"
+  - "ide"
+icon_url: "https://icons.duckduckgo.com/ip3/replit.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://replit.com/>\n"
+updated_at: "2026-11-21 01:05"

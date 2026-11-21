@@ -1,0 +1,13 @@
+name: "Binder"
+description: "Free service for building and sharing interactive computing environments from Git repositories, powered by Jupyter and BinderHub. Enables ephemeral code execution environments without local setup."
+source_url: "https://mybinder.org/"
+category: "Code Interpreters"
+tags:
+  - "free-plan"
+  - "open-source"
+  - "code-interpreter"
+  - "jupyter"
+  - "free"
+icon_url: "https://icons.duckduckgo.com/ip3/mybinder.org.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://mybinder.org/>\n- Repository: <https://github.com/jupyterhub/binderhub>\n\nLicense: BSD-3-Clause.\n"
+updated_at: "2026-11-21 01:05"

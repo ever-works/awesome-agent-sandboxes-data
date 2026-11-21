@@ -1,0 +1,12 @@
+name: "gVisor"
+description: "User-space kernel for containers that provides an additional layer of isolation between application code and the host operating system. Used to sandbox untrusted workloads in container environments."
+source_url: "https://gvisor.dev/"
+category: "Open-Source Sandboxes"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "container-sandbox"
+  - "isolation"
+icon_url: "https://icons.duckduckgo.com/ip3/gvisor.dev.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://gvisor.dev/>\n- Repository: <https://github.com/google/gvisor>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 01:05"

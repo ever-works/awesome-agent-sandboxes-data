@@ -1,0 +1,12 @@
+name: "Wasmtime"
+description: "Standalone WebAssembly runtime for running Wasm modules securely outside the browser, developed by the Bytecode Alliance. Provides sandboxed execution with fine-grained capability-based security."
+source_url: "https://wasmtime.dev/"
+category: "Open-Source Sandboxes"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "webassembly"
+  - "bytecode-alliance"
+icon_url: "https://icons.duckduckgo.com/ip3/wasmtime.dev.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://wasmtime.dev/>\n- Repository: <https://github.com/bytecodealliance/wasmtime>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 01:05"

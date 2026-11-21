@@ -1,0 +1,12 @@
+name: "GitHub Codespaces"
+description: "Cloud-hosted development environments integrated with GitHub, providing disposable virtual machines and containers for code execution. Supports preconfigured environments and VS Code in the browser."
+source_url: "https://github.com/features/codespaces"
+category: "Dev Environments for Agents"
+tags:
+  - "freemium"
+  - "api"
+  - "cloud"
+  - "ide"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://github.com/features/codespaces>\n"
+updated_at: "2026-11-21 01:05"

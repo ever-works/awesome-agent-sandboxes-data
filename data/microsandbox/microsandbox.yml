@@ -1,0 +1,12 @@
+name: "microsandbox"
+description: "Open-source sandbox for safely executing untrusted code in isolated environments. Designed for running AI-generated code with minimal overhead and language-agnostic support."
+source_url: "https://github.com/microsandbox/microsandbox"
+category: "Open-Source Sandboxes"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "free-plan"
+  - "code-execution"
+icon_url: "https://icons.duckduckgo.com/ip3/github.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://github.com/microsandbox/microsandbox>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:05"

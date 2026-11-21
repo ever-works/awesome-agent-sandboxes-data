@@ -1,0 +1,12 @@
+name: "Jupyter"
+description: "Open-source web application for interactive computing, supporting live code, visualizations, and narrative text across many programming languages. Widely used as a code interpreter for data science and AI workflows."
+source_url: "https://jupyter.org/"
+category: "Code Interpreters"
+tags:
+  - "open-source"
+  - "free-plan"
+  - "code-interpreter"
+  - "data-science"
+icon_url: "https://icons.duckduckgo.com/ip3/jupyter.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://jupyter.org/>\n- Repository: <https://github.com/jupyter/jupyter>\n\nLicense: BSD-3-Clause.\n"
+updated_at: "2026-11-21 01:05"

@@ -1,0 +1,70 @@
+- id: freemium
+  name: "Freemium"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: python
+  name: "Python"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: dev-environments
+  name: "Dev Environments"
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: cloud
+  name: "Cloud"
+- id: serverless
+  name: "Serverless"
+- id: edge
+  name: "Edge"
+- id: v8-isolates
+  name: "V8 Isolates"
+- id: browser
+  name: "Browser"
+- id: web-development
+  name: "Web Development"
+- id: ephemeral-environments
+  name: "Ephemeral Environments"
+- id: free-plan
+  name: "Free Plan"
+- id: code-execution
+  name: "Code Execution"
+- id: microvm
+  name: "MicroVM"
+- id: virtualization
+  name: "Virtualization"
+- id: container-sandbox
+  name: "Container Sandbox"
+- id: isolation
+  name: "Isolation"
+- id: ide
+  name: "IDE"
+- id: webcontainers
+  name: "WebContainers"
+- id: cloud-ide
+  name: "Cloud IDE"
+- id: remote-development
+  name: "Remote Development"
+- id: code-interpreter
+  name: "Code Interpreter"
+- id: data-science
+  name: "Data Science"
+- id: kubernetes
+  name: "Kubernetes"
+- id: webassembly
+  name: "WebAssembly"
+- id: bytecode-alliance
+  name: "Bytecode Alliance"
+- id: kvm
+  name: "KVM"
+- id: dev-containers
+  name: "Dev Containers"
+- id: jupyter
+  name: "Jupyter"
+- id: free
+  name: "Free"

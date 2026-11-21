@@ -1,0 +1,12 @@
+name: "Cloudflare Sandbox SDK"
+description: "Cloudflare provides sandboxed execution for Workers and edge functions using V8 isolates, with SDKs for deploying untrusted code at the edge. Includes isolation and resource limits for safe code execution."
+source_url: "https://cloudflare.com/"
+category: "Managed Sandbox APIs"
+tags:
+  - "freemium"
+  - "api"
+  - "edge"
+  - "v8-isolates"
+icon_url: "https://icons.duckduckgo.com/ip3/cloudflare.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://cloudflare.com/>\n"
+updated_at: "2026-11-21 01:05"

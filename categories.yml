@@ -1,0 +1,12 @@
+- id: managed-sandbox-apis
+  name: "Managed Sandbox APIs"
+- id: open-source-sandboxes
+  name: "Open-Source Sandboxes"
+- id: microvm-runtimes
+  name: "MicroVM Runtimes"
+- id: browser-sandboxes
+  name: "Browser Sandboxes"
+- id: code-interpreters
+  name: "Code Interpreters"
+- id: dev-environments-for-agents
+  name: "Dev Environments for Agents"

@@ -1,0 +1,12 @@
+name: "Riza"
+description: "Code execution API for AI agents, providing isolated sandboxes for running untrusted code in multiple languages. Includes session management and artifact handling for agent workflows."
+source_url: "https://riza.io/"
+category: "Managed Sandbox APIs"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "code-execution"
+icon_url: "https://icons.duckduckgo.com/ip3/riza.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://riza.io/>\n"
+updated_at: "2026-11-21 01:05"

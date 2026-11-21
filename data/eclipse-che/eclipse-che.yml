@@ -1,0 +1,12 @@
+name: "Eclipse Che"
+description: "Developer workspace server and cloud IDE that provides multi-user, container-based workspaces for teams. Supports Kubernetes-native workspaces and custom machine images."
+source_url: "https://www.eclipse.org/che"
+category: "Dev Environments for Agents"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "enterprise"
+  - "kubernetes"
+icon_url: "https://icons.duckduckgo.com/ip3/www.eclipse.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.eclipse.org/che>\n- Repository: <https://github.com/eclipse/che>\n\nLicense: EPL-2.0.\n"
+updated_at: "2026-11-21 01:05"

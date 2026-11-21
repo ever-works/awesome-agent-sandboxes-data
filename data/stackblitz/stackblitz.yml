@@ -1,0 +1,12 @@
+name: "StackBlitz"
+description: "Browser-based development environment powered by WebContainers, enabling full Node.js stacks to run entirely in the browser. Provides instant sandboxes for web development and testing."
+source_url: "https://stackblitz.com/"
+category: "Browser Sandboxes"
+tags:
+  - "freemium"
+  - "browser"
+  - "webcontainers"
+  - "web-development"
+icon_url: "https://icons.duckduckgo.com/ip3/stackblitz.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://stackblitz.com/>\n"
+updated_at: "2026-11-21 01:05"

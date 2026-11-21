@@ -1,0 +1,12 @@
+name: "CloudHypervisor"
+description: "Open-source virtual machine monitor optimized for cloud workloads, supporting KVM and modern hardware virtualization features. Designed for lightweight, secure microVMs in cloud-native environments."
+source_url: "https://cloudhypervisor.org/"
+category: "MicroVM Runtimes"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "microvm"
+  - "kvm"
+icon_url: "https://icons.duckduckgo.com/ip3/cloudhypervisor.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://cloudhypervisor.org/>\n- Repository: <https://github.com/cloud-hypervisor/cloud-hypervisor>\n\nLicense: Apache 2.0.\n"
+updated_at: "2026-11-21 01:05"

@@ -1,0 +1,13 @@
+name: "Modal Sandboxes"
+description: "Managed cloud platform for running sandboxed code, functions, and AI workloads with automatic scaling and volume storage. Provides isolated execution environments accessible via API."
+source_url: "https://modal.com/"
+category: "Managed Sandbox APIs"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "enterprise"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/modal.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://modal.com/>\n"
+updated_at: "2026-11-21 01:05"
